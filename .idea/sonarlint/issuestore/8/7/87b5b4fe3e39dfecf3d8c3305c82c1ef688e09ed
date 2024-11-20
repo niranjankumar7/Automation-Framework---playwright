@@ -1,0 +1,9 @@
+
+python:S1192#"bDefine a constant instead of duplicating this literal '//a[contains(@href, "collapse4")]' 4 times.(ô·×ï8åÂ¶çª2
+{python:S1192"WDefine a constant instead of duplicating this literal '//div[@id="collapse2"]' 7 times.(Ç¤ Àüÿÿÿÿ8Ì›Ô‹¤2
+vpython:S1192"WDefine a constant instead of duplicating this literal '//div[@id="collapse1"]' 5 times.(™‚ıò8ì¥Ì‹¤2
+vpython:S1192$"WDefine a constant instead of duplicating this literal '//div[@id="collapse4"]' 7 times.(Üèò‡8éëÙ‹¤2
+vpython:S1192"WDefine a constant instead of duplicating this literal '//div[@id="collapse3"]' 7 times.(èüÎô8éëÙ‹¤2
+€python:S1192"bDefine a constant instead of duplicating this literal '//a[contains(@href, "collapse3")]' 4 times.(¡’¸!8çÂ¶çª2
+€python:S1192"bDefine a constant instead of duplicating this literal '//a[contains(@href, "collapse1")]' 3 times.(—ûÛW8çÂ¶çª2
+†python:S1192"bDefine a constant instead of duplicating this literal '//a[contains(@href, "collapse2")]' 4 times.(’ óõøÿÿÿÿ8çÂ¶çª2
